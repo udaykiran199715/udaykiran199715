@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Uday👋
 
 <img src="https://github.com/udaykiran199715/udaykiran199715/blob/master/mern-stack.png" width="800" height="250" />
 
@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning MongoDB
 - ⚡ Fun fact: i have a mechanical degree
 
-![Uday Akula github stats](https://github-readme-stats.vercel.app/api?username=udaykiran199715&theme=vue&show_icons=true&count_private=true)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykiran199715&theme=vue&show_icons=true&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran199715&theme=vue"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran199715)](https://github.com/anuraghazra/github-readme-stats)
+</P>
+
+
+
