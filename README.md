@@ -1,4 +1,4 @@
-### Hi there I'm Uday👋
+### Hi, I'm Uday👋
 
 <img src="https://github.com/udaykiran199715/udaykiran199715/blob/master/mern-stack.png" width="800" height="250" />
 
@@ -11,6 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran199715&theme=dark"/>
 
 </P>
-
 
 
