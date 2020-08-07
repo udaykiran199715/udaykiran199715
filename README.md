@@ -6,7 +6,9 @@
 - 🌱 learning MongoDB
 - ⚡ Fun fact: i have a mechanical degree
 
-<font theme='green'> An aspiring Full Stack Web Developer, molded and shaped by Masai School's intensive training program.To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth.</font>
+
+
+>An aspiring Full Stack Web Developer, molded and shaped by Masai School's intensive training program.To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=udaykiran199715&theme=dark&show_icons=true&count_private=true" height="207px" /> 
