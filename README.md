@@ -13,12 +13,13 @@
 
 
 <a href="https://twitter.com/udaymslul">
-  <img  alt="Uday Akula | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+  <img align="left" alt="Uday Akula | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a> 
 <a href="https://www.linkedin.com/in/uday-kiran-akula-18611a157/">
-  <img  alt="Uday Akula | Linkedin" width="21px" src="linkedin.png" />
+  <img align="left"  alt="Uday Akula | Linkedin" width="21px" src="linkedin.png" />
 </a>
-
+<br/>
+<br/>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=udaykiran199715&theme=dark&show_icons=true&count_private=true" height="207px" /> 
