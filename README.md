@@ -8,7 +8,7 @@
 
 
 ---
->An aspiring Full Stack Web Developer, molded and shaped by Masai School's intensive training program.To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth
+>An aspiring Full Stack Web Developer, molded and shaped by Masai School's intensive training program.To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth.
 ---
 
 
