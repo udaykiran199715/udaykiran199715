@@ -16,7 +16,7 @@
   <img  alt="Uday Akula | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/uday-kiran-akula-18611a157/">
-  <img  alt="Uday Akula | Linkedin" width="21px" src="https://www.google.com/search?q=linkedin+logo&sxsrf=ALeKk014qZgm8imBaedyYjj3jJk6KubVjg:1596854005248&tbm=isch&source=iu&ictx=1&fir=I8gi7yJSoBiCbM%252CiY3qzzFZ12SEfM%252C_&vet=1&usg=AI4_-kQRarVLz3y9yIuEQQPFPB4uc9ppwg&sa=X&ved=2ahUKEwilt_bdyIrrAhU0yzgGHSRtArAQ9QEwB3oECAoQNw#imgrc=I8gi7yJSoBiCbM" />
+  <img  alt="Uday Akula | Linkedin" width="21px" src="linkedin.png" />
 </a>
 
 
