@@ -15,7 +15,7 @@
 <a href="https://twitter.com/udaymslul">
   <img align="left" alt="Uday Akula | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a> 
-<a href="www.linkedin.com/in/udaykiranakula">
+<a href="https://www.linkedin.com/in/udaykiranakula/">
   <img align="left"  alt="Uday Akula | Linkedin" width="21px" src="linkedin.png" />
 </a>
 <br/>
