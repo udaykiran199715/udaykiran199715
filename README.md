@@ -8,7 +8,7 @@
 
 
 ---
->An aspiring Full Stack Web Developer, molded and shaped by Masai School's intensive training program.To obtain a position, where I can effectively utilize my expertise and maximize my skills, knowledge and experience along with the organization’s growth.
+>To obtain a position as a developer, where I can strive for excellence in my work with dedication, focus, proactive approach, positive attitude, and passion. To utilize my knowledge, skills, and abilities in the best possible way for the fulfillment of organizational goals.
 ---
 
 
