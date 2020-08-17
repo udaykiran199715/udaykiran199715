@@ -2,9 +2,10 @@
 
 <!-- <img src="https://github.com/udaykiran199715/udaykiran199715/blob/master/mern-stack.png" width="800" height="250" /> -->
 
+- 🌱 I'm currently learning MongoDB
 - 🔭 loving React
-- 🌱 learning MongoDB
-- ⚡ Fun fact: i have a mechanical degree
+
+<!-- - ⚡ Fun fact: i have a mechanical degree -->
 
 
 ---
@@ -18,6 +19,7 @@
 <a href="https://www.linkedin.com/in/udaykiranakula/">
   <img align="left"  alt="Uday Akula | Linkedin" width="21px" src="linkedin.png" />
 </a>
+
 <br/>
 <br/>
 
