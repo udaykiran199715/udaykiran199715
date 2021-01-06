@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/udaykiran199715/udaykiran199715/blob/master/mern-stack.png" width="800" height="250" /> -->
 
-- 🌱 I'm currently learning MongoDB
+- 🌱 I'm currently working on sugar cosmetics
 - 🔭 loving React
 
 <!-- - ⚡ Fun fact: i have a mechanical degree -->
