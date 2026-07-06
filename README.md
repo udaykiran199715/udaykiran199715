@@ -112,43 +112,6 @@ https://github.com/udaykiran199715/react-native-notification-sdk-playground
 
 ---
 
-# 🚀 Enterprise Projects
-
-### CLIMOVA
-
-- Project Management Platform
-- Gantt Charts
-- Solar Monitoring Dashboard
-- Apex Charts
-- Dynamic Dashboards
-- Internationalization
-- React Window Performance Optimization
-
----
-
-### LOGIT
-
-- Logistics Management System
-- Google Maps
-- Google Earth
-- Invoice Generator
-- PDF Engine
-- Real-time Chat
-- React Native App
-
----
-
-### AI Chatbot
-
-- AI Chat Interface
-- Code Responses
-- Tables
-- Chat History
-- Fast Search
-- Modern UI
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
