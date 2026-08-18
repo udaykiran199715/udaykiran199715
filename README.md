@@ -19,7 +19,7 @@ Building scalable web & mobile applications with modern technologies.
 
 # 👨‍💻 About Me
 
-I'm a **Senior Software Developer** from **India** with **5+ years of experience** building scalable web and mobile applications.
+I'm a **Senior Software Developer** from **India** with **6+ years of experience** building scalable web and mobile applications.
 
 I enjoy solving complex engineering problems, building developer tools, creating reusable SDKs, and designing production-ready applications.
 
